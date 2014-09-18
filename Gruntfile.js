@@ -38,8 +38,7 @@ module.exports = function(grunt) {
       main: {
         files: [
           {expand: true, flatten: true, src: ['./bower_components/font-awesome/fonts/*'], dest: '<%= assetDir %>/fonts', filter: 'isFile'},
-          {expand: true, cwd: './src/images/', src: ['**'], dest: '<%= assetDir %>/images'},
-          {src: ['./bower_components/bjcp-style-data/json/style-data.min.json'], dest: '<%= assetDir %>/data/style-data.min.json' }
+          {expand: true, cwd: './src/images/', src: ['**'], dest: '<%= assetDir %>/images'}
         ]
       },
     },
