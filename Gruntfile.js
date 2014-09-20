@@ -47,7 +47,7 @@ module.exports = function(grunt) {
       options: {
         mangle: false
       },
-      cornerstone: {
+      htba: {
         files: {
           '<%= assetDir %>/js/htba.min.js': '<%= assetDir %>/js/htba.min.js'
         },
