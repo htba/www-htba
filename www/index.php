@@ -10,7 +10,8 @@ include_once('header.php');
     <div id="social" style="margin: 25px">
         <a target="_blank" href="https://www.facebook.com/pages/Horse-Thief-Brewers-Association/156373287885298" title="Facebook"><i class="fa fa-facebook fa-2x"></i></a>
         <a target="_blank" href="https://twitter.com/htbrewers" title="Twitter"><i class="fa fa-twitter fa-2x"></i></a>
-        <a href="mailto:horsethiefba@gmail.com" title="Email"><i class="fa fa-envelope fa-2x"></i></a>
+        <a target="_blank" href="https://instagram.com/horsethiefbrewers" title="Instagram"><i class="fa fa-instagram fa-2x"></i></a>
+        <a href="mailto:president@horsethiefbrewers.com" title="Email"><i class="fa fa-envelope fa-2x"></i></a>
     </div>
 
     <p style="margin: 25px">We meet every 3rd Thursday of the month at 7PM at Clayton Brewing Company in San Dimas, CA.</p>
