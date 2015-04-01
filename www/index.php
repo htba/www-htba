@@ -11,6 +11,7 @@ include_once('header.php');
         <a target="_blank" href="https://www.facebook.com/pages/Horse-Thief-Brewers-Association/156373287885298" title="Facebook"><i class="fa fa-facebook fa-2x"></i></a>
         <a target="_blank" href="https://twitter.com/htbrewers" title="Twitter"><i class="fa fa-twitter fa-2x"></i></a>
         <a target="_blank" href="https://instagram.com/horsethiefbrewers" title="Instagram"><i class="fa fa-instagram fa-2x"></i></a>
+        <a target="_blank" href="https://groups.google.com/forum/#!forum/htbrewers" title="Google Group"><i class="fa fa-users fa-2x"></i></a>
         <a href="mailto:president@horsethiefbrewers.com" title="Email"><i class="fa fa-envelope fa-2x"></i></a>
     </div>
 
