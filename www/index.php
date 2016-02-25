@@ -4,6 +4,12 @@ include_once('header.php');
 
 ?>
 
+<div class="alert alert-info" role="alert" style="text-align: center">
+    <strong>Southern California Homebrew Festival Info</strong> <br />
+
+    The club will be attending the SCHF April 29-30, at Lake Vail. Click <a href="schf.php">here</a> for club-specific information. For general SCFH info, see <a href="http://www.calhomebrewers.org/">here</a>.
+</div>
+
 <div style="text-align: center">
     <img width="400px" height="400px" src="/assets/images/logo.png" alt="Horse Thief Brewers Association" /> <br />
 

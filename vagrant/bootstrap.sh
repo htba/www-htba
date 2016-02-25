@@ -1,14 +1,13 @@
 #!/bin/bash
 
-yum install -y vim-enhanced httpd php nodejs npm git
+rpm -ivh https://dl.fedoraproject.org/pub/epel/epel-release-latest-6.noarch.rpm
 
-iptables -F
+yum install -y vim-enhanced httpd php nodejs npm git
 
 sed -i 's/\/var\/www\/html/\/vagrant\/www/' /etc/httpd/conf/httpd.conf
 
 service httpd restart
 chkconfig httpd on
-chkconfig iptables off
 
 npm install -g grunt-cli
 npm install -g bower
