@@ -27,7 +27,7 @@ include_once('header.php');
     <td>Randall</td>
     <td>
         <ul>
-            <li>?</li>
+            <li>Russian Imperial Stout</li>
         </ul>
     </td>
 </tr>
