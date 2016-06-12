@@ -4,6 +4,12 @@ include_once('header.php');
 
 ?>
 
+<div class="alert alert-info" role="alert" style="text-align: center">
+    <strong>Lake Arrowhead Beer Festival Info</strong> <br />
+
+    The club will be attending the Lake Arrowhead Beer Festival on August 13th, 2016.  <a href="lakearrowhead.php">More Information</a>
+</div>
+
 <div style="text-align: center">
     <img width="400px" height="400px" src="/assets/images/logo.png" alt="Horse Thief Brewers Association" /> <br />
 
