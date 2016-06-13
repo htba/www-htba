@@ -52,7 +52,7 @@ include_once('header.php');
     <td>Jeff &amp; Jessica</td>
     <td>
         <ul>
-            <li>TBD</li>
+            <li>Chamomile and Honey Wheat</li>
         </ul>
     </td>
 </tr>
@@ -93,6 +93,14 @@ include_once('header.php');
     <td>
         <ul>
             <li>TBD</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td>Anthony</td>
+    <td>
+        <ul>
+            <li>IPA</li>
         </ul>
     </td>
 </tr>
